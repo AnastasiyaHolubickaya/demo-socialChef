@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/demo-socialChef/static/css/main.e5f8e3f7.chunk.css",
+    "main.js": "/demo-socialChef/static/js/main.aef6a5a3.chunk.js",
+    "main.js.map": "/demo-socialChef/static/js/main.aef6a5a3.chunk.js.map",
+    "runtime-main.js": "/demo-socialChef/static/js/runtime-main.6ba408b3.js",
+    "runtime-main.js.map": "/demo-socialChef/static/js/runtime-main.6ba408b3.js.map",
+    "static/js/2.7206cc14.chunk.js": "/demo-socialChef/static/js/2.7206cc14.chunk.js",
+    "static/js/2.7206cc14.chunk.js.map": "/demo-socialChef/static/js/2.7206cc14.chunk.js.map",
+    "static/css/3.7a5665ab.chunk.css": "/demo-socialChef/static/css/3.7a5665ab.chunk.css",
+    "static/js/3.ee0b1f5d.chunk.js": "/demo-socialChef/static/js/3.ee0b1f5d.chunk.js",
+    "static/js/3.ee0b1f5d.chunk.js.map": "/demo-socialChef/static/js/3.ee0b1f5d.chunk.js.map",
+    "index.html": "/demo-socialChef/index.html",
+    "precache-manifest.017b61cb2865e7a1930e8200a48b3d16.js": "/demo-socialChef/precache-manifest.017b61cb2865e7a1930e8200a48b3d16.js",
+    "service-worker.js": "/demo-socialChef/service-worker.js",
+    "static/css/3.7a5665ab.chunk.css.map": "/demo-socialChef/static/css/3.7a5665ab.chunk.css.map",
+    "static/css/main.e5f8e3f7.chunk.css.map": "/demo-socialChef/static/css/main.e5f8e3f7.chunk.css.map",
+    "static/js/2.7206cc14.chunk.js.LICENSE": "/demo-socialChef/static/js/2.7206cc14.chunk.js.LICENSE",
+    "static/media/327.gif": "/demo-socialChef/static/media/327.00c902b6.gif",
+    "static/media/Fonts.css": "/demo-socialChef/static/media/Raleway-Light.6b562d7c.ttf",
+    "static/media/App.css": "/demo-socialChef/static/media/body.b3748400.jpg",
+    "static/media/facebook_101791.svg": "/demo-socialChef/static/media/facebook_101791.d5f63460.svg",
+    "static/media/github_101792.svg": "/demo-socialChef/static/media/github_101792.bd4cd744.svg",
+    "static/media/instagram_101780.svg": "/demo-socialChef/static/media/instagram_101780.2ecea040.svg",
+    "static/media/photo_2020-07-26_23-35-01.jpg": "/demo-socialChef/static/media/photo_2020-07-26_23-35-01.b46d675c.jpg",
+    "static/media/twitter_101809.svg": "/demo-socialChef/static/media/twitter_101809.e39bc484.svg",
+    "static/media/vk_101783.svg": "/demo-socialChef/static/media/vk_101783.bcd94337.svg",
+    "static/media/youtube_101764.svg": "/demo-socialChef/static/media/youtube_101764.431e6724.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba408b3.js",
+    "static/js/2.7206cc14.chunk.js",
+    "static/css/main.e5f8e3f7.chunk.css",
+    "static/js/main.aef6a5a3.chunk.js"
+  ]
+}
