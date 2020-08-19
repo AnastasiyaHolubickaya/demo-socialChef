@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo-socialChef/static/css/main.e5f8e3f7.chunk.css",
-    "main.js": "/demo-socialChef/static/js/main.aef6a5a3.chunk.js",
-    "main.js.map": "/demo-socialChef/static/js/main.aef6a5a3.chunk.js.map",
+    "main.js": "/demo-socialChef/static/js/main.c79a282e.chunk.js",
+    "main.js.map": "/demo-socialChef/static/js/main.c79a282e.chunk.js.map",
     "runtime-main.js": "/demo-socialChef/static/js/runtime-main.6ba408b3.js",
     "runtime-main.js.map": "/demo-socialChef/static/js/runtime-main.6ba408b3.js.map",
     "static/js/2.7206cc14.chunk.js": "/demo-socialChef/static/js/2.7206cc14.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/3.ee0b1f5d.chunk.js": "/demo-socialChef/static/js/3.ee0b1f5d.chunk.js",
     "static/js/3.ee0b1f5d.chunk.js.map": "/demo-socialChef/static/js/3.ee0b1f5d.chunk.js.map",
     "index.html": "/demo-socialChef/index.html",
-    "precache-manifest.017b61cb2865e7a1930e8200a48b3d16.js": "/demo-socialChef/precache-manifest.017b61cb2865e7a1930e8200a48b3d16.js",
+    "precache-manifest.d56df5effe3baaa6df662cfbca861295.js": "/demo-socialChef/precache-manifest.d56df5effe3baaa6df662cfbca861295.js",
     "service-worker.js": "/demo-socialChef/service-worker.js",
     "static/css/3.7a5665ab.chunk.css.map": "/demo-socialChef/static/css/3.7a5665ab.chunk.css.map",
     "static/css/main.e5f8e3f7.chunk.css.map": "/demo-socialChef/static/css/main.e5f8e3f7.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.6ba408b3.js",
     "static/js/2.7206cc14.chunk.js",
     "static/css/main.e5f8e3f7.chunk.css",
-    "static/js/main.aef6a5a3.chunk.js"
+    "static/js/main.c79a282e.chunk.js"
   ]
 }
