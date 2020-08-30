@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/demo-socialChef/static/css/main.6b448180.chunk.css",
-    "main.js": "/demo-socialChef/static/js/main.b34ccc6a.chunk.js",
-    "main.js.map": "/demo-socialChef/static/js/main.b34ccc6a.chunk.js.map",
-    "runtime-main.js": "/demo-socialChef/static/js/runtime-main.41a2891f.js",
-    "runtime-main.js.map": "/demo-socialChef/static/js/runtime-main.41a2891f.js.map",
-    "static/js/2.b5edcb57.chunk.js": "/demo-socialChef/static/js/2.b5edcb57.chunk.js",
-    "static/js/2.b5edcb57.chunk.js.map": "/demo-socialChef/static/js/2.b5edcb57.chunk.js.map",
+    "main.css": "/demo-socialChef/static/css/main.dd731373.chunk.css",
+    "main.js": "/demo-socialChef/static/js/main.939e36a1.chunk.js",
+    "main.js.map": "/demo-socialChef/static/js/main.939e36a1.chunk.js.map",
+    "runtime-main.js": "/demo-socialChef/static/js/runtime-main.fa3a2e50.js",
+    "runtime-main.js.map": "/demo-socialChef/static/js/runtime-main.fa3a2e50.js.map",
+    "static/js/2.d63075d8.chunk.js": "/demo-socialChef/static/js/2.d63075d8.chunk.js",
+    "static/js/2.d63075d8.chunk.js.map": "/demo-socialChef/static/js/2.d63075d8.chunk.js.map",
     "static/css/3.7a5665ab.chunk.css": "/demo-socialChef/static/css/3.7a5665ab.chunk.css",
-    "static/js/3.403c8ffe.chunk.js": "/demo-socialChef/static/js/3.403c8ffe.chunk.js",
-    "static/js/3.403c8ffe.chunk.js.map": "/demo-socialChef/static/js/3.403c8ffe.chunk.js.map",
+    "static/js/3.ad407423.chunk.js": "/demo-socialChef/static/js/3.ad407423.chunk.js",
+    "static/js/3.ad407423.chunk.js.map": "/demo-socialChef/static/js/3.ad407423.chunk.js.map",
     "index.html": "/demo-socialChef/index.html",
-    "precache-manifest.06c181532322160ff0f862987580ea14.js": "/demo-socialChef/precache-manifest.06c181532322160ff0f862987580ea14.js",
+    "precache-manifest.73e763a129909937ffdac95330868833.js": "/demo-socialChef/precache-manifest.73e763a129909937ffdac95330868833.js",
     "service-worker.js": "/demo-socialChef/service-worker.js",
     "static/css/3.7a5665ab.chunk.css.map": "/demo-socialChef/static/css/3.7a5665ab.chunk.css.map",
-    "static/css/main.6b448180.chunk.css.map": "/demo-socialChef/static/css/main.6b448180.chunk.css.map",
-    "static/js/2.b5edcb57.chunk.js.LICENSE": "/demo-socialChef/static/js/2.b5edcb57.chunk.js.LICENSE",
+    "static/css/main.dd731373.chunk.css.map": "/demo-socialChef/static/css/main.dd731373.chunk.css.map",
+    "static/js/2.d63075d8.chunk.js.LICENSE": "/demo-socialChef/static/js/2.d63075d8.chunk.js.LICENSE",
     "static/media/327.gif": "/demo-socialChef/static/media/327.00c902b6.gif",
     "static/media/Fonts.css": "/demo-socialChef/static/media/Raleway-Light.6b562d7c.ttf",
     "static/media/App.css": "/demo-socialChef/static/media/body.b3748400.jpg",
@@ -28,9 +28,9 @@
     "static/media/youtube_101764.svg": "/demo-socialChef/static/media/youtube_101764.431e6724.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41a2891f.js",
-    "static/js/2.b5edcb57.chunk.js",
-    "static/css/main.6b448180.chunk.css",
-    "static/js/main.b34ccc6a.chunk.js"
+    "static/js/runtime-main.fa3a2e50.js",
+    "static/js/2.d63075d8.chunk.js",
+    "static/css/main.dd731373.chunk.css",
+    "static/js/main.939e36a1.chunk.js"
   ]
 }
