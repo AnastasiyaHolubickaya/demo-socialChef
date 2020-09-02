@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24b728ae232ba297efc62d243d76b5b0",
+    "revision": "240d01b208455416601e8fcbb6daf123",
     "url": "/demo-socialChef/index.html"
   },
   {
-    "revision": "c53380b732c9a4a4878a",
+    "revision": "a3d07d1c59a340c672c6",
     "url": "/demo-socialChef/static/css/3.7a5665ab.chunk.css"
   },
   {
-    "revision": "bc740c1ebbe4c0a15bb8",
-    "url": "/demo-socialChef/static/css/main.9259dfd7.chunk.css"
+    "revision": "036297c390645a36eea2",
+    "url": "/demo-socialChef/static/css/main.6f56049f.chunk.css"
   },
   {
-    "revision": "e0c138cd4ec6d617cbd7",
-    "url": "/demo-socialChef/static/js/2.61f7712c.chunk.js"
+    "revision": "aa815763707fc445cef7",
+    "url": "/demo-socialChef/static/js/2.97df466a.chunk.js"
   },
   {
     "revision": "748d5fd8a7e7493724665d4098123404",
-    "url": "/demo-socialChef/static/js/2.61f7712c.chunk.js.LICENSE"
+    "url": "/demo-socialChef/static/js/2.97df466a.chunk.js.LICENSE"
   },
   {
-    "revision": "c53380b732c9a4a4878a",
-    "url": "/demo-socialChef/static/js/3.4e16ec49.chunk.js"
+    "revision": "a3d07d1c59a340c672c6",
+    "url": "/demo-socialChef/static/js/3.f765c1b7.chunk.js"
   },
   {
-    "revision": "bc740c1ebbe4c0a15bb8",
-    "url": "/demo-socialChef/static/js/main.7956884d.chunk.js"
+    "revision": "036297c390645a36eea2",
+    "url": "/demo-socialChef/static/js/main.bcf21aa4.chunk.js"
   },
   {
-    "revision": "1b167396d1b16335b256",
-    "url": "/demo-socialChef/static/js/runtime-main.62c63926.js"
+    "revision": "a111ccce04ffaf5dd8ea",
+    "url": "/demo-socialChef/static/js/runtime-main.272992b0.js"
   },
   {
     "revision": "00c902b669a743f20da0368fd777f4e4",
