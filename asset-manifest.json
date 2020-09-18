@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo-socialChef/static/css/main.2c9d226a.chunk.css",
-    "main.js": "/demo-socialChef/static/js/main.b3cee96c.chunk.js",
-    "main.js.map": "/demo-socialChef/static/js/main.b3cee96c.chunk.js.map",
+    "main.css": "/demo-socialChef/static/css/main.76cf596a.chunk.css",
+    "main.js": "/demo-socialChef/static/js/main.7bd797a4.chunk.js",
+    "main.js.map": "/demo-socialChef/static/js/main.7bd797a4.chunk.js.map",
     "runtime-main.js": "/demo-socialChef/static/js/runtime-main.2846f29d.js",
     "runtime-main.js.map": "/demo-socialChef/static/js/runtime-main.2846f29d.js.map",
     "static/js/2.8c7925cb.chunk.js": "/demo-socialChef/static/js/2.8c7925cb.chunk.js",
@@ -11,26 +11,26 @@
     "static/js/3.16d02624.chunk.js": "/demo-socialChef/static/js/3.16d02624.chunk.js",
     "static/js/3.16d02624.chunk.js.map": "/demo-socialChef/static/js/3.16d02624.chunk.js.map",
     "index.html": "/demo-socialChef/index.html",
-    "precache-manifest.89f8182968b65877cb7550958939344c.js": "/demo-socialChef/precache-manifest.89f8182968b65877cb7550958939344c.js",
+    "precache-manifest.db82e97a079b72881a39fa1cf76e5d79.js": "/demo-socialChef/precache-manifest.db82e97a079b72881a39fa1cf76e5d79.js",
     "service-worker.js": "/demo-socialChef/service-worker.js",
     "static/css/3.7d50c9f6.chunk.css.map": "/demo-socialChef/static/css/3.7d50c9f6.chunk.css.map",
-    "static/css/main.2c9d226a.chunk.css.map": "/demo-socialChef/static/css/main.2c9d226a.chunk.css.map",
+    "static/css/main.76cf596a.chunk.css.map": "/demo-socialChef/static/css/main.76cf596a.chunk.css.map",
     "static/js/2.8c7925cb.chunk.js.LICENSE": "/demo-socialChef/static/js/2.8c7925cb.chunk.js.LICENSE",
     "static/media/327.gif": "/demo-socialChef/static/media/327.00c902b6.gif",
     "static/media/Fonts.css": "/demo-socialChef/static/media/Raleway-Light.6b562d7c.ttf",
     "static/media/App.css": "/demo-socialChef/static/media/body.b3748400.jpg",
-    "static/media/facebook_101791.svg": "/demo-socialChef/static/media/facebook_101791.d5f63460.svg",
-    "static/media/github_101792.svg": "/demo-socialChef/static/media/github_101792.bd4cd744.svg",
-    "static/media/instagram_101780.svg": "/demo-socialChef/static/media/instagram_101780.2ecea040.svg",
+    "static/media/facebook_101791.svg": "/demo-socialChef/static/media/facebook_101791.e5d21c40.svg",
+    "static/media/github_101792.svg": "/demo-socialChef/static/media/github_101792.32256b6a.svg",
+    "static/media/instagram_101780.svg": "/demo-socialChef/static/media/instagram_101780.d4b3309d.svg",
     "static/media/photo_2020-07-26_23-35-01.jpg": "/demo-socialChef/static/media/photo_2020-07-26_23-35-01.b46d675c.jpg",
-    "static/media/twitter_101809.svg": "/demo-socialChef/static/media/twitter_101809.e39bc484.svg",
-    "static/media/vk_101783.svg": "/demo-socialChef/static/media/vk_101783.bcd94337.svg",
-    "static/media/youtube_101764.svg": "/demo-socialChef/static/media/youtube_101764.431e6724.svg"
+    "static/media/twitter_101809.svg": "/demo-socialChef/static/media/twitter_101809.c603b86b.svg",
+    "static/media/vk_101783.svg": "/demo-socialChef/static/media/vk_101783.f281a3f7.svg",
+    "static/media/youtube_101764.svg": "/demo-socialChef/static/media/youtube_101764.7b512f71.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2846f29d.js",
     "static/js/2.8c7925cb.chunk.js",
-    "static/css/main.2c9d226a.chunk.css",
-    "static/js/main.b3cee96c.chunk.js"
+    "static/css/main.76cf596a.chunk.css",
+    "static/js/main.7bd797a4.chunk.js"
   ]
 }

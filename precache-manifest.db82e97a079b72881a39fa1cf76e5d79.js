@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bb4608251272513556e9cde22700d11",
+    "revision": "7ed079a70f1e4d6ead638f67d95f953c",
     "url": "/demo-socialChef/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-socialChef/static/css/3.7d50c9f6.chunk.css"
   },
   {
-    "revision": "20889b1598f6d3c781f8",
-    "url": "/demo-socialChef/static/css/main.2c9d226a.chunk.css"
+    "revision": "cba6de52217fa0d0f088",
+    "url": "/demo-socialChef/static/css/main.76cf596a.chunk.css"
   },
   {
     "revision": "709b0765b8ff49b69ac0",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-socialChef/static/js/3.16d02624.chunk.js"
   },
   {
-    "revision": "20889b1598f6d3c781f8",
-    "url": "/demo-socialChef/static/js/main.b3cee96c.chunk.js"
+    "revision": "cba6de52217fa0d0f088",
+    "url": "/demo-socialChef/static/js/main.7bd797a4.chunk.js"
   },
   {
     "revision": "8423c73671479358e07b",
@@ -44,31 +44,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-socialChef/static/media/body.b3748400.jpg"
   },
   {
-    "revision": "d5f63460022093bb31faeaf9fae11bd5",
-    "url": "/demo-socialChef/static/media/facebook_101791.d5f63460.svg"
+    "revision": "e5d21c40ea9e6bf8d3ccbfeeeea553fa",
+    "url": "/demo-socialChef/static/media/facebook_101791.e5d21c40.svg"
   },
   {
-    "revision": "bd4cd744ac56e2b2f422fdd58c366f10",
-    "url": "/demo-socialChef/static/media/github_101792.bd4cd744.svg"
+    "revision": "32256b6a573fde10743358d8ece375cd",
+    "url": "/demo-socialChef/static/media/github_101792.32256b6a.svg"
   },
   {
-    "revision": "2ecea040b42fc9a6a0987c927ad59989",
-    "url": "/demo-socialChef/static/media/instagram_101780.2ecea040.svg"
+    "revision": "d4b3309d7757545f67a0aebc11d6db62",
+    "url": "/demo-socialChef/static/media/instagram_101780.d4b3309d.svg"
   },
   {
     "revision": "b46d675c0f8298b67c376e1426a48b4e",
     "url": "/demo-socialChef/static/media/photo_2020-07-26_23-35-01.b46d675c.jpg"
   },
   {
-    "revision": "e39bc4848a65d9824c44d2404777ce69",
-    "url": "/demo-socialChef/static/media/twitter_101809.e39bc484.svg"
+    "revision": "c603b86bb2f45b25cb437f2cc0ca84ff",
+    "url": "/demo-socialChef/static/media/twitter_101809.c603b86b.svg"
   },
   {
-    "revision": "bcd94337b42fc620c1aac15a07ebcef7",
-    "url": "/demo-socialChef/static/media/vk_101783.bcd94337.svg"
+    "revision": "f281a3f76490f61677542d10f0d7eb08",
+    "url": "/demo-socialChef/static/media/vk_101783.f281a3f7.svg"
   },
   {
-    "revision": "431e6724346993af037da310f11389bf",
-    "url": "/demo-socialChef/static/media/youtube_101764.431e6724.svg"
+    "revision": "7b512f716fa4aaeb4564337a68395d0d",
+    "url": "/demo-socialChef/static/media/youtube_101764.7b512f71.svg"
   }
 ]);
