@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97ff24839fb66e1cfeb7f1e718f3a2be",
+    "revision": "35bad8e87da5cd5bb267cbdac404ac37",
     "url": "/demo-socialChef/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-socialChef/static/css/3.5993e57c.chunk.css"
   },
   {
-    "revision": "63fd587ca19a4be2229e",
+    "revision": "34d6990a580925068e6e",
     "url": "/demo-socialChef/static/css/main.d88985ee.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-socialChef/static/js/3.8fa93dd5.chunk.js"
   },
   {
-    "revision": "63fd587ca19a4be2229e",
-    "url": "/demo-socialChef/static/js/main.01a1d3a9.chunk.js"
+    "revision": "34d6990a580925068e6e",
+    "url": "/demo-socialChef/static/js/main.0772bbe6.chunk.js"
   },
   {
     "revision": "e20047739743dee6d8b7",
