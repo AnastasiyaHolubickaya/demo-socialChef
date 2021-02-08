@@ -1,47 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a84df92bbbb51c496515630744556114",
+    "revision": "c77a45e36ba6b467ed02d95a05242939",
     "url": "/demo-socialChef/index.html"
   },
   {
-    "revision": "f35d00edabf4e5132d48",
+    "revision": "abebd37be43a38ddea00",
     "url": "/demo-socialChef/static/css/2.027e9bb2.chunk.css"
   },
   {
-    "revision": "be6e4f57e423db465e64",
+    "revision": "c515d29540f6cf9720ca",
     "url": "/demo-socialChef/static/css/3.b324d501.chunk.css"
   },
   {
-    "revision": "33fcfbab7329e6efd5d1",
-    "url": "/demo-socialChef/static/css/4.7d41e77d.chunk.css"
+    "revision": "49c20d74d3d3162c7033",
+    "url": "/demo-socialChef/static/css/main.969b89b0.chunk.css"
   },
   {
-    "revision": "2da677355a84bdd29eb8",
-    "url": "/demo-socialChef/static/css/main.0f855d17.chunk.css"
-  },
-  {
-    "revision": "f35d00edabf4e5132d48",
-    "url": "/demo-socialChef/static/js/2.22529ed4.chunk.js"
+    "revision": "abebd37be43a38ddea00",
+    "url": "/demo-socialChef/static/js/2.0544d90e.chunk.js"
   },
   {
     "revision": "f7ca4bf62dab730414a11c7ee9da82d4",
-    "url": "/demo-socialChef/static/js/2.22529ed4.chunk.js.LICENSE"
+    "url": "/demo-socialChef/static/js/2.0544d90e.chunk.js.LICENSE"
   },
   {
-    "revision": "be6e4f57e423db465e64",
-    "url": "/demo-socialChef/static/js/3.88ce6fb7.chunk.js"
+    "revision": "c515d29540f6cf9720ca",
+    "url": "/demo-socialChef/static/js/3.04127f2f.chunk.js"
   },
   {
-    "revision": "33fcfbab7329e6efd5d1",
-    "url": "/demo-socialChef/static/js/4.2b2cffd0.chunk.js"
+    "revision": "49c20d74d3d3162c7033",
+    "url": "/demo-socialChef/static/js/main.733b5b6b.chunk.js"
   },
   {
-    "revision": "2da677355a84bdd29eb8",
-    "url": "/demo-socialChef/static/js/main.58281e52.chunk.js"
-  },
-  {
-    "revision": "89dce2f6b4d64e9a5724",
-    "url": "/demo-socialChef/static/js/runtime-main.cfaf3c1c.js"
+    "revision": "9661aa59e555b18d3cb6",
+    "url": "/demo-socialChef/static/js/runtime-main.5df62bec.js"
   },
   {
     "revision": "9fcc5b0c6a6165cd6f29a03e092cf8ea",
